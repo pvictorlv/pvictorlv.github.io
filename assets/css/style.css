@@ -1,0 +1,48 @@
+.image-blue-bg {
+  background: #0091dc;
+  height: 250px;
+  padding: 15px;
+}
+
+.image-green-bg {
+  background: #b8e8dc;
+  height: 250px;
+  padding: 15px;
+}
+
+.image-pink-bg {
+  background: #f1d4cc;
+  height: 250px;
+  padding: 15px;
+}
+.image-orange-bg {
+  background: #cc4701;
+  height: 250px;
+  padding: 15px;
+}
+.image-red-bg {
+  background: #c82333;
+  height: 250px;
+  padding: 15px;
+}
+.image-yellow-bg {
+  background: #ffd600;
+  height: 250px;
+  padding: 15px;
+}
+
+.image-dark-bg {
+  background: var(--bs-dark);
+  height: 250px;
+  padding: 15px;
+}
+
+.image-project-content {
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 10px;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+}
+
