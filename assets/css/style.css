@@ -36,6 +36,9 @@
   height: 250px;
   padding: 15px;
 }
+.bs-icon-dark {
+  background: #2d2c38;
+}
 
 .image-project-content {
   background-repeat: no-repeat;
